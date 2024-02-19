@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahul Thakor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rthakor2031&label=Profile%20views&color=0e75b6&style=flat" alt="rthakor2031" /> </p>
 
+<img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" style="height:400px;width:100%; margin:auto;" >
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rthakor2031" alt="rthakor2031" /></a> </p>
 
 - 📫 How to reach me **5126rahulthakor@gmail.com**
+- 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
